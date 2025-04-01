@@ -7,4 +7,4 @@ mongo
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 opengauss/opengauss:7.0.0-RC1
-docker.io/opengauss/opengauss:7.0.0-RC1
+opengauss/opengauss
